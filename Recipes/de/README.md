@@ -14,7 +14,7 @@ Eingeteilt wird nach der **Gesamtzeit** – also inklusive Back-, Koch-, Ruhe-, 
 |---|---|---|
 | [Schnell](#schnell) | bis 30 Min. | 20 |
 | [Mittel](#mittel) | bis 1 Std. | 26 |
-| [Lang](#lang) | über 1 Std. | 20 |
+| [Lang](#lang) | über 1 Std. | 21 |
 
 ### Schnell
 
@@ -90,6 +90,7 @@ Eingeteilt wird nach der **Gesamtzeit** – also inklusive Back-, Koch-, Ruhe-, 
 | [Tiramisu](Tiramisu.md) | 15 Min. Zubereitungszeit + 8 Std. Wartezeit |
 | [Ingwer-Limette-Minze-Eistee](Eistee-Limette-Ingwer.md) | 30 Min. Zubereitung + 1 Nacht Abkühlzeit |
 | [Linsensuppe](Linsensuppe.md) | 1 Nacht Vorbereitungszeit + 1 Std. Zubereitungszeit |
+| [Cold Brew](Cold-Brew.md) | 12–18 Std. Ziehzeit im Kühlschrank |
 | [Croquetas de Jamón (Spanische Kroketten / Tapa)](Croquetas-de-jamon.md) | Arbeitszeit: 45 Min. + Ruhezeit: ½ Tag |
 | [Kichererbsensalat](Kichererbsensalat.md) | Arbeitszeit 15 Min. + Vorbereitungszeit 24 Std. |
 | [Schüttelgurken](Sch%C3%BCttelgurken.md) | 15 Min. Zubereitung + 24 Std. Ziehzeit |

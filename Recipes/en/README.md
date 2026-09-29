@@ -14,7 +14,7 @@ Recipes are grouped by their **total time** – including baking, cooking, resti
 |---|---|---|
 | [Quick](#quick) | up to 30 min | 20 |
 | [Medium](#medium) | up to 1 h | 26 |
-| [Long](#long) | over 1 h | 20 |
+| [Long](#long) | over 1 h | 21 |
 
 ### Quick
 
@@ -90,6 +90,7 @@ Recipes are grouped by their **total time** – including baking, cooking, resti
 | [Tiramisu](Tiramisu.md) | 15 min preparation time + 8 h waiting time |
 | [Ginger Lime Mint Iced Tea](Eistee-Limette-Ingwer.md) | 30 min preparation + 1 night cooling time |
 | [Lentil Soup](Linsensuppe.md) | 1 night preparation time + 1 h cooking time |
+| [Cold Brew](Cold-Brew.md) | 12–18 h steeping in the fridge |
 | [Croquetas de Jamón (Spanish Ham Croquettes / Tapa)](Croquetas-de-jamon.md) | Working time: 45 min + Resting time: ½ day |
 | [Chickpea Salad](Kichererbsensalat.md) | Working time 15 min + Preparation time 24 h |
 | [Shaken Cucumber Pickles](Sch%C3%BCttelgurken.md) | 15 min preparation + 24 h infusing time |
