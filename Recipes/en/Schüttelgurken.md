@@ -3,9 +3,9 @@
 ## Ingredients
     2 long          cucumbers
     2 medium        onions
-    3 tablespoons   sugar
+    2 tablespoons   sugar
     2 teaspoons     salt
-    2 teaspoons     mustard seeds
+    1-2 teaspoons   mustard seeds
     2 teaspoons     dill
     4 tablespoons   vinegar 10%
 
