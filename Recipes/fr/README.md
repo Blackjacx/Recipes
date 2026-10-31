@@ -14,7 +14,7 @@ Le classement se fait selon la **durée totale**, cuisson, repos, trempage et in
 |---|---|---|
 | [Rapide](#rapide) | jusqu'à 30 min | 20 |
 | [Moyen](#moyen) | jusqu'à 1 h | 26 |
-| [Long](#long) | plus d'1 h | 21 |
+| [Long](#long) | plus d'1 h | 22 |
 
 ### Rapide
 
@@ -92,6 +92,7 @@ Le classement se fait selon la **durée totale**, cuisson, repos, trempage et in
 | [Soupe de lentilles](Linsensuppe.md) | 1 nuit de trempage + 1 h de préparation |
 | [Cold brew](Cold-Brew.md) | 12–18 h d'infusion au réfrigérateur |
 | [Croquetas de jamón (croquettes espagnoles / tapa)](Croquetas-de-jamon.md) | Temps de travail : 45 min + Temps de repos : ½ jour |
+| [Pulled beef (effiloché de bœuf)](Pulled-Beef.md) | env. 12 h de marinade + 2 h au four |
 | [Concombres secoués (Schüttelgurken)](Sch%C3%BCttelgurken.md) | 15 min de préparation + 24 h de macération |
 | [Salade de pois chiches](Kichererbsensalat.md) | Temps de travail 15 min + Temps de trempage 24 h |
 | [Salade de pommes de terre de grand-mère](Kartoffelsalat-Omas-Art.md) | env. 30 min de préparation + cuire les pommes de terre 1 jour avant |
