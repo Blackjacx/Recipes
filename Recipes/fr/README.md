@@ -12,7 +12,7 @@ Le classement se fait selon la **durée totale**, cuisson, repos, trempage et in
 
 | Catégorie | Durée totale | Nombre |
 |---|---|---|
-| [Rapide](#rapide) | jusqu'à 30 min | 20 |
+| [Rapide](#rapide) | jusqu'à 30 min | 21 |
 | [Moyen](#moyen) | jusqu'à 1 h | 26 |
 | [Long](#long) | plus d'1 h | 22 |
 
@@ -33,6 +33,7 @@ Le classement se fait selon la **durée totale**, cuisson, repos, trempage et in
 | [Pâtes à la turque (Yalanche Mante)](T%C3%BCrkische-Pasta.md) | 15 min |
 | [Salade de lentilles et feta](Linsen-Feta-Salat.md) | 15 min |
 | [Sambal Matah](Sambal-Matah.md) | 15 min |
+| [Sauce pimentée](Chilisauce.md) | env. 15 min |
 | [Maultaschen à la chinoise (huile pimentée du Sichuan)](Maultaschen-Chinese.md) | 20 min |
 | [Carbonara originale](Carbonara-Original.md) | 30 min |
 | [Guacamole](Guacamole.md) | 30 min |
