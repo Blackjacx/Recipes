@@ -12,7 +12,7 @@ Eingeteilt wird nach der **Gesamtzeit** – also inklusive Back-, Koch-, Ruhe-, 
 
 | Kategorie | Gesamtzeit | Anzahl |
 |---|---|---|
-| [Schnell](#schnell) | bis 30 Min. | 20 |
+| [Schnell](#schnell) | bis 30 Min. | 21 |
 | [Mittel](#mittel) | bis 1 Std. | 26 |
 | [Lang](#lang) | über 1 Std. | 22 |
 
@@ -29,6 +29,7 @@ Eingeteilt wird nach der **Gesamtzeit** – also inklusive Back-, Koch-, Ruhe-, 
 | [Salatbrühe](Salatbr%C3%BChe.md) | 10 Min. |
 | [Toast mit Burrata, Tomate und Schinken](Toast-Burrata-Tomato-Ham.md) | 10 Min. |
 | [Apfel-Ahorn-Punsch](Apfel-Ahorn-Punsch.md) | 15 Min. |
+| [Chilisauce](Chilisauce.md) | ca. 15 Min. |
 | [Kirschgrütze](Kirschgr%C3%BCtze.md) | 15 Min. |
 | [Linsen-Feta-Salat](Linsen-Feta-Salat.md) | 15 Min. |
 | [Sambal Matah](Sambal-Matah.md) | 15 Min. |

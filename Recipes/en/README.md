@@ -12,7 +12,7 @@ Recipes are grouped by their **total time** – including baking, cooking, resti
 
 | Category | Total time | Count |
 |---|---|---|
-| [Quick](#quick) | up to 30 min | 20 |
+| [Quick](#quick) | up to 30 min | 21 |
 | [Medium](#medium) | up to 1 h | 26 |
 | [Long](#long) | over 1 h | 22 |
 
@@ -30,6 +30,7 @@ Recipes are grouped by their **total time** – including baking, cooking, resti
 | [Toast with Burrata, Tomato and Ham](Toast-Burrata-Tomato-Ham.md) | 10 min |
 | [Apple Maple Punch](Apfel-Ahorn-Punsch.md) | 15 min |
 | [Cherry Pudding (Kirschgrütze)](Kirschgr%C3%BCtze.md) | 15 min |
+| [Chilli Sauce](Chilisauce.md) | approx. 15 min |
 | [Lentil Feta Salad](Linsen-Feta-Salat.md) | 15 min |
 | [Sambal Matah](Sambal-Matah.md) | 15 min |
 | [Turkish Pasta (Yalanche Mante)](T%C3%BCrkische-Pasta.md) | 15 min |
